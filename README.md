@@ -34,5 +34,5 @@ I would like to introduce my portfolio in 42 tokyo.
 
 - [CPP Module05-09](https://github.com/retakashi/cpp05-09)
 
-- [ft_irc](git@github.com:retakashi/ft_irc_group.git) in progress...
+[ft_irc](https://github.com/retakashi/ft_irc_group)  in progress...
 
